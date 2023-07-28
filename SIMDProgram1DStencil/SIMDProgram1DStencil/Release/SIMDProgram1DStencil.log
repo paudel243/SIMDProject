@@ -1,0 +1,4 @@
+﻿  1DStencil.c
+C:\Users\11111\source\repos\SIMDProgram1DStencil\SIMDProgram1DStencil\1DStencil.c(50,5): warning C4013: 'asmfunc' undefined; assuming extern returning int
+1DStencil.obj : error LNK2001: unresolved external symbol _asmfunc
+C:\Users\11111\source\repos\SIMDProgram1DStencil\Release\SIMDProgram1DStencil.exe : fatal error LNK1120: 1 unresolved externals

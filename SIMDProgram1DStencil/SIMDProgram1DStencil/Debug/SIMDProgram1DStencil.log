@@ -1,0 +1,3 @@
+﻿  1DStencil.c
+1DStencil.obj : error LNK2019: unresolved external symbol _asmfunction referenced in function _main
+C:\Users\11111\source\repos\SIMDProgram1DStencil\Debug\SIMDProgram1DStencil.exe : fatal error LNK1120: 1 unresolved externals

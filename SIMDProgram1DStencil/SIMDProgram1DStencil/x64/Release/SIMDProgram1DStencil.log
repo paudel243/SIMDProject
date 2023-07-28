@@ -1,0 +1,6 @@
+﻿  1DStencil.c
+1DStencil.obj : error LNK2001: unresolved external symbol __imp_clock
+1DStencil.obj : error LNK2001: unresolved external symbol __imp___acrt_iob_func
+1DStencil.obj : error LNK2001: unresolved external symbol __imp___stdio_common_vfprintf
+1DStencil.obj : error LNK2001: unresolved external symbol __imp_malloc
+C:\Users\11111\source\repos\SIMDProgram1DStencil\x64\Release\SIMDProgram1DStencil.exe : fatal error LNK1120: 4 unresolved externals

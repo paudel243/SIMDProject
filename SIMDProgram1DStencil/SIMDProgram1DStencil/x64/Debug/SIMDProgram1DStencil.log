@@ -1,0 +1,3 @@
+﻿  1DStencil.c
+C:\Users\11111\source\repos\SIMDProgram1DStencil\SIMDProgram1DStencil\1DStencil.c(36,95): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SIMDProgram1DStencil.vcxproj -> C:\Users\11111\source\repos\SIMDProgram1DStencil\x64\Debug\SIMDProgram1DStencil.exe
